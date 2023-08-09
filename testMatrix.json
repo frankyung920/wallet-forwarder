@@ -1,0 +1,589 @@
+{
+ "contracts/Forwarder.sol": {
+  "27": [
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "28": [
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "35": [],
+  "36": [],
+  "38": [],
+  "45": [],
+  "53": [],
+  "55": [],
+  "63": [],
+  "64": [],
+  "65": [],
+  "66": [],
+  "68": [],
+  "69": [],
+  "78": [],
+  "80": [],
+  "87": [],
+  "88": [],
+  "89": [],
+  "96": []
+ },
+ "contracts/ForwarderManagement.sol": {
+  "50": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "51": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "53": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "54": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "56": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "57": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "64": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already exists",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Function called by non-admin",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address doesn't exist",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully added flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "65": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already exists",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address doesn't exist",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully added flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "72": [],
+  "73": [],
+  "83": [
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "84": [
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "85": [
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "86": [
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "94": [
+   {
+    "title": "Successfully added flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already exists",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "95": [
+   {
+    "title": "Successfully added flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "96": [
+   {
+    "title": "Successfully added flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "97": [
+   {
+    "title": "Successfully added flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "105": [
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address doesn't exist",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "106": [
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "107": [
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "108": [
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "116": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already exists",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "117": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "118": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "119": [
+   {
+    "title": "Successfully added valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully creates a forwarder",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "127": [
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address doesn't exist",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "128": [
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "129": [
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "130": [
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "141": [],
+  "142": [],
+  "143": [],
+  "152": [
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "161": [
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "170": [
+   {
+    "title": "Successfully find index for an address in an array",
+    "file": "test/CustomArray.ts"
+   },
+   {
+    "title": "Element not found in an array",
+    "file": "test/CustomArray.ts"
+   },
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "171": [
+   {
+    "title": "Successfully find index for an address in an array",
+    "file": "test/CustomArray.ts"
+   },
+   {
+    "title": "Element not found in an array",
+    "file": "test/CustomArray.ts"
+   },
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "172": [
+   {
+    "title": "Successfully find index for an address in an array",
+    "file": "test/CustomArray.ts"
+   },
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "175": [
+   {
+    "title": "Element not found in an array",
+    "file": "test/CustomArray.ts"
+   }
+  ],
+  "178": [
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "181": [
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ],
+  "182": [
+   {
+    "title": "Successfully removed valid 'flush to address'",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Address already already removed",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Successfully removed flusher",
+    "file": "test/ForwarderManagement.ts"
+   },
+   {
+    "title": "Check whether it is flusher",
+    "file": "test/ForwarderManagement.ts"
+   }
+  ]
+ },
+ "contracts/ReentrancyGuard.sol": {
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": []
+ }
+}
